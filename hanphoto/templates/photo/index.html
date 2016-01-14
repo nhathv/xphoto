@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>HanPhoto!</title>
+</head>
+<body>
+
+	<h1>Welcome {% if user_login %} {{ user_login }} {% endif %} to HanPhoto!</h1>
+	<a href="{{ url }}">{{ url_linktext }}</a>
+</body>
+</html>

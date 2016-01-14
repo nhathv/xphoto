@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Welcome to photo page!</title>
+</head>
+<body>
+	<h1>Welcome {% if user_login %} {{ user_login }} {% endif %} to photo page!</h1>
+	<a href="{{ url }}">{{ url_linktext }}</a>
+</body>
+</html>
