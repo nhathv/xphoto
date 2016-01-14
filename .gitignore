@@ -10,3 +10,15 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+hanphoto/.idea/.name
+hanphoto/.idea/encodings.xml
+hanphoto/.idea/hanphoto.iml
+hanphoto/.idea/libraries/Google_App_Engine_SDK.xml
+hanphoto/.idea/misc.xml
+hanphoto/.idea/modules.xml
+hanphoto/.idea/workspace.xml
+hanphoto/.idea/codeStyleSettings.xml
+hanphoto/.idea/vcs.xml
+hanphoto/hanphoto/*.pyc
+hanphoto/*.pyc
+hanphoto/photo/*.pyc
